@@ -13,7 +13,7 @@
         "php": ">=7.0.0",
         "laravel/framework": "^8",
         "intervention/image": "^2.4",
-        "phpunit/phpunit": "^7.4"
+        "phpunit/phpunit": "^9"
     },
     "require-dev": {
         "laravel/laravel": "^8",
